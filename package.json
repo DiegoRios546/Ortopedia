@@ -2,7 +2,7 @@
   "name": "ortoperalia",
   "version": "0.1.0",
   "private": true,
-"homepage": "https://diegorios546.github.io/Ortoperalia/",
+"homepage": "https://diegorios546.github.io/Ortopedia/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
