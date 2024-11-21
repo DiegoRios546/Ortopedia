@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Ortoperdia/static/css/main.bc01a42f.css",
+    "main.js": "/Ortoperdia/static/js/main.c3ef6997.js",
+    "static/js/453.8679eca6.chunk.js": "/Ortoperdia/static/js/453.8679eca6.chunk.js",
+    "static/media/dr.png": "/Ortoperdia/static/media/dr.8f3f277a0ecc3402abad.png",
+    "static/media/banner.png": "/Ortoperdia/static/media/banner.6ec073f6d3e6e18e4178.png",
+    "static/media/interweb.png": "/Ortoperdia/static/media/interweb.d8a1df99affd8bc211b8.png",
+    "static/media/logo.png": "/Ortoperdia/static/media/logo.e4375ae6475e593f3e63.png",
+    "static/media/logo.svg": "/Ortoperdia/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Ortoperdia/index.html",
+    "main.bc01a42f.css.map": "/Ortoperdia/static/css/main.bc01a42f.css.map",
+    "main.c3ef6997.js.map": "/Ortoperdia/static/js/main.c3ef6997.js.map",
+    "453.8679eca6.chunk.js.map": "/Ortoperdia/static/js/453.8679eca6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc01a42f.css",
+    "static/js/main.c3ef6997.js"
+  ]
+}
